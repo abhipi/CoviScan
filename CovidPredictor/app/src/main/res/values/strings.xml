@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Covid Predictor</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="choose_from_gallery">Choose from gallery</string>
+    <string name="viral_pneumonia">VIRAL-PNEUMONIA</string>
+</resources>
